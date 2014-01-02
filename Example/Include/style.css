@@ -139,9 +139,9 @@ ui-tooltip {
 
 #content {
 	width: 745px;
-	margin: 0 0 0 250px;
+	margin: 0 0 0 265px;
 	/*40 before*/
-	padding: 20px;
+	padding: 10px;
 	background: #fff;
 }
 
