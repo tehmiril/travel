@@ -12,7 +12,7 @@ var image4 = new Image();
 image4.src="images/Norway/Sognefjord.jpg";
 
 var image5 = new Image();
-image5.src="images/Norway/Storseisundet.jpg";
+image5.src="images/Norway/storseisundet.jpg";
 
 var image6 = new Image();
 image6.src="images/Norway/Vigelandsparken_Oslo.jpg";
